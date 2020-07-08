@@ -27,3 +27,8 @@ YouTube video to get a quick visual idea of the steps: <https://www.youtube.com/
    ```bash
    yarn start
    ```
+
+## Where to go from here
+
+- `<Router>` to an authenticated page.
+- Logout.
