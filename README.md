@@ -21,6 +21,7 @@ YouTube video to get a quick visual idea of the steps: <https://www.youtube.com/
 5. Save changes.
 6. Copy the Domain and Client ID for use inside your React JS code (`YOUR_DOMAIN` and `YOUR_CLIENT_ID).
 7. Make the edits you see in this repo for `index.js` (edit) -> `App.js` (edit) -> `LoginButton.js` (create)
+   - You can see such edits here: <https://github.com/hchiam/learning-react-auth0/commit/5f681ea4d3b676bf6b59866039e52837466c60c2>
 8. Replace `YOUR_DOMAIN` and `YOUR_CLIENT_ID` with the strings you copied in an earlier step.
 9. You can run the app inside `my-app` and see that clicking on the Login button redirects you to Auth0:
 
