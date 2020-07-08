@@ -8,7 +8,7 @@ Tutorial: <https://auth0.com/docs/quickstart/spa/react/01-login>
 
 YouTube video to get a quick visual idea of the steps: <https://www.youtube.com/watch?v=GuxEO8gfcZw> (but not exactly the same steps as those I did following the official tutorial)
 
-1. Quick setup of React app template and Auth0 SDK:
+1. Quick setup of [React app template](https://github.com/facebook/create-react-app) and [Auth0 SDK](https://github.com/auth0/auth0-react):
 
    ```bash
    npx create-react-app my-app; cd my-app
