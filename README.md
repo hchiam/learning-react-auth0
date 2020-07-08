@@ -12,11 +12,12 @@ YouTube video to get a quick visual idea of the steps: <https://www.youtube.com/
 2. Create an SPA app and go to settings.
 3. Copy `http://localhost:3000` into Allowed Callback URLs, Allowed Logout URLs, and Allowed Web Origins.
 4. Save changes.
-5. Copy the Domain and Client ID for use inside your React JS code.
-6. Make the edits you see here for index.js (edit) -> App.js (edit) -> Login.js (create)
+5. Copy the Domain and Client ID for use inside your React JS code (`YOUR_DOMAIN` and `YOUR_CLIENT_ID).
+6. Make the edits you see in this repo for `index.js` (edit) -> `App.js` (edit) -> `LoginButton.js` (create)
+7. Replace `YOUR_DOMAIN` and `YOUR_CLIENT_ID` with the strings you copied in an earlier step.
 
 ```bash
-npx create-react-app test-auth0; cd test-auth0
+npx create-react-app my-app; cd my-app
 yarn add @auth0/auth0-react
 yarn start
 ```
